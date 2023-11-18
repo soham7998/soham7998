@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohamshahh" target="blank"><img src="https://img.shields.io/twitter/follow/sohamshahh?logo=twitter&style=for-the-badge" alt="sohamshahh" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis,Data Enginner,Machine Learning**
+- 🌱 I’m currently learning **Data Engineer,Machine Learning**
 
 - 💬 Ask me about **Python,Flask**
 
