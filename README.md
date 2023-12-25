@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Data Engineer,Machine Learning**
 
-- 💬 Ask me about **Python,Flask**
+- 💬 Ask me about **Python,Sql, Mongo**
 
 - 📫 How to reach me **shahhsoham@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1nUUaCXLIvxkFcq5mbQXOxE1BVMX5f1HA/view?usp=drivesdk
+- 📄 Know about my experiences Check this Out htps://drive.google.com/file/d/1E3OD_0QRMuFwzIH49OOpUntSEtZQGGI_/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
