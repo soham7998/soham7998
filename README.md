@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shahhsoham@gmail.com**
 
-- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1E3OD_0QRMuFwzIH49OOpUntSEtZQGGI_/view?usp=drivesdk)**
+- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1JMTS0LMJoAn8Z21m8SfmEg60ee4Bhfv8/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
