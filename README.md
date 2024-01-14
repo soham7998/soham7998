@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1JMTS0LMJoAn8Z21m8SfmEg60ee4Bhfv8/view?usp=drive_link)**
 
+- Hacker Badges **Python 4 Star , SQL 4 Star** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sohamshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamshahh" height="30" width="40" /></a>
