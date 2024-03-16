@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shahhsoham@gmail.com**
 
-- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1Mq0UBFJaTGbXjlDuQPKYfw1HCF4W5xi-/view?usp=drive_link)**
+- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1VjXHOSH5lMjQ-uaJIsUNEKndQG4KgJN3/view?usp=drive_link)**
 
 - My PortFolio: **[PortFolio](http://soham2003.pythonanywhere.com/)**
 
