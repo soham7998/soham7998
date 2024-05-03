@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Engineering & Artificial Intelligence Concepts,Learning Diffrenet Tools**
 
-- 💬 Ask me about **Python,Sql, Mongo**
+- 💬 Ask me about **Python,SQL,Mongo DB,Data Analysis,AWS**
 
 - 📫 How to reach me **shahhsoham@gmail.com**
 
