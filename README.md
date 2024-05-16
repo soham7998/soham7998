@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analysis & Machine Learning Concepts,Learning Diffrenet Tools**
 
-- 💬 Ask me about **Python, SQL, Mongo DB, Data Analysis, AWS , GCP,Azure**
+- 💬 Ask me about **Python, SQL, Data Analysis, AWS , GCP, Azure**
 
 - 📫 How to reach me **shahhsoham@gmail.com**
 
