@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Shah</h1>
+<h1 align="center">Heyy 👋, I'm Soham Shah</h1>
 <h3 align="center">A passionate Data Geek & ML Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fnm3xy7yus6tnvy3fyjs5ts4027log7bba55jnqb&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
