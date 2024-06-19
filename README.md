@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shahhsoham@gmail.com**
 
-- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1KBA19-yo7gHRnXSr7WzgrcDMXvBvrb1e/view?usp=drive_link)**
+- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1_i98OYTX1k7V6ZmpfGyR1E41Ft06sJwj/view?usp=drive_link)**
 
 - My PortFolio: **[PortFolio](http://soham2003.pythonanywhere.com/)**
 - D3HUB:Explore the Data World(Final Year Project.) **[D3HUB](https://dataworld.vercel.app/)**.
