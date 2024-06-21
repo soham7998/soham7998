@@ -17,7 +17,7 @@
 - My PortFolio: **[PortFolio](http://soham2003.pythonanywhere.com/)**
 - D3HUB:Explore the Data World(Final Year Project.) **[D3HUB](https://dataworld.vercel.app/)**.
 
-- Freekancing Platforms **[Freelancer](https://www.freelancer.com/u/Soham7998)**,**[Up Work](https://www.upwork.com/freelancers/~012c162241066d172b)**
+- Freelancing Platforms **[Freelancer](https://www.freelancer.com/u/Soham7998)**, **[Up Work](https://www.upwork.com/freelancers/~012c162241066d172b)**
   
 - Hacker Rank Badges **SQL 5 Stars,Python 4 Stars** 
 
