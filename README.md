@@ -18,6 +18,8 @@
 - D3HUB:Explore the Data World(Final Year Project.) **[D3HUB](https://dataworld.vercel.app/)**.
 
 - Freelancing Platforms **[Freelancer](https://www.freelancer.com/u/Soham7998)**, **[Up Work](https://www.upwork.com/freelancers/~012c162241066d172b)**
+ 
+- Publications **[Understanding Cloud Outages and Security Breaches.](https://ijrpr.com/uploads/V5ISSUE11/IJRPR34989.pdf)**
   
 - Hacker Rank Badges **SQL 5 Stars,Python 4 Stars** 
 
