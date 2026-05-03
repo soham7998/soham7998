@@ -24,7 +24,7 @@
 - Hacker Rank Badges **SQL 5 Stars,Python 4 Stars** 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/sohamshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamshahh" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/shahsoham2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soham-shah-a341a1222" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shah_.soham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shah_.soham/" height="30" width="40" /></a>
