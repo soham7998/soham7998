@@ -1,43 +1,135 @@
-<h1 align="center">Heyy 👋, I'm Soham Shah</h1>
-<h3 align="center">Passionate Data Geek | Cybersecurity & Machine Learning Enthusiast | Intersection of Data and Security </h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fnm3xy7yus6tnvy3fyjs5ts4027log7bba55jnqb&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham7998&label=Profile%20views&color=0e75b6&style=flat" alt="soham7998" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sohamshahh" target="blank"><img src="https://img.shields.io/twitter/follow/sohamshahh?logo=twitter&style=for-the-badge" alt="sohamshahh" /></a> </p>
+# `whoami` — Soham Shah
 
-- 🌱 I’m currently learning **Data Analysis & Machine Learning Concepts,Learning Diffrenet Tools**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Data+Enthusiast;Cloud+Security+Researcher;ML+%7C+Python+%7C+SQL+%7C+AWS;Threat+Hunter+in+Training;Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Python, SQL, Data Analysis, AWS , GCP, Azure**
+<img src="https://komarev.com/ghpvc/?username=soham7998&label=Profile+Views&color=00ff41&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00ff41?style=flat-square" />
 
-- 📫 How to reach me **shahhsoham@gmail.com**
+</div>
 
-- 📄 Know about my experiences Check this Out **[Resume](https://drive.google.com/file/d/1_i98OYTX1k7V6ZmpfGyR1E41Ft06sJwj/view?usp=drive_link)**
+---
 
-- My PortFolio: **[PortFolio](http://soham2003.pythonanywhere.com/)**
-- D3HUB:Explore the Data World(Final Year Project.) **[D3HUB](https://dataworld.vercel.app/)**.
+## `$ cat about_me.txt`
 
-- Freelancing Platforms **[Freelancer](https://www.freelancer.com/u/Soham7998)**, **[Up Work](https://www.upwork.com/freelancers/~012c162241066d172b)**
- 
-- Publications **[Understanding Cloud Outages and Security Breaches.](https://ijrpr.com/uploads/V5ISSUE11/IJRPR34989.pdf)**
-  
-- Hacker Rank Badges **SQL 5 Stars,Python 4 Stars** 
+```bash
+┌──(soham㉿kali)-[~]
+└─$ cat about_me.txt
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/sohamshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamshahh" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/shahsoham2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soham-shah-a341a1222" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shah_.soham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shah_.soham/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shahhsoham?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shahhsoham?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/soham-shah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soham-shah/" height="30" width="40" /></a>
-</p>
+  Name     : Soham Shah
+  Role     : Data Geek | Cybersecurity & ML Enthusiast
+  Focus    : Intersection of Data, Cloud & Security
+  Email    : shahhsoham@gmail.com
+  Status   : [ ONLINE ] — Currently learning & building
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+> *"Security is not a product, but a process."* — Bruce Schneier
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham7998&show_icons=true&locale=en&layout=compact" alt="soham7998" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham7998&show_icons=true&locale=en" alt="soham7998" /></p>
+## `$ ls -la skills/`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham7998&" alt="soham7998" /></p>
+<div align="center">
 
+### 🔐 Cybersecurity & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 💻 Languages & Dev
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat current_mission.log`
+
+```
+[*] Actively learning ........... Data Analysis & Machine Learning
+[*] Exploring ................... Cloud Security (AWS / GCP / Azure)
+[*] Research focus .............. Cloud Outages & Security Breaches
+[*] Competitive platforms ....... HackerRank | LeetCode
+[+] HackerRank Badges ........... SQL ⭐⭐⭐⭐⭐ | Python ⭐⭐⭐⭐
+[+] Ask me about ................ Python, SQL, Data Analysis, Cloud
+```
+
+---
+
+## `$ ls projects/`
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🌐 [**D3HUB**](https://dataworld.vercel.app/) | Explore the Data World — Final Year Project | `[ LIVE ]` |
+| 🖥️ [**Portfolio**](http://soham2003.pythonanywhere.com/) | Personal portfolio & project showcase | `[ LIVE ]` |
+| 📄 [**Resume**](https://drive.google.com/file/d/1_i98OYTX1k7V6ZmpfGyR1E41Ft06sJwj/view?usp=drive_link) | Full experience & credentials | `[ PUBLIC ]` |
+
+---
+
+## `$ cat publications.txt`
+
+```diff
++ [PUBLISHED] Understanding Cloud Outages and Security Breaches
+  Journal : IJRPR — Vol.5, Issue 11
+  Link    : https://ijrpr.com/uploads/V5ISSUE11/IJRPR34989.pdf
+  Topics  : Cloud Infrastructure, Security Incidents, Breach Analysis
+```
+
+---
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shahsoham2003)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sohamshahh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shah_.soham/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shahhsoham)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/soham-shah/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/Soham7998)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~012c162241066d172b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahhsoham@gmail.com)
+
+</div>
+
+---
+
+## `$ cat github_stats.log`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soham7998&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham7998&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham7998&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41"/>
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║   "The quieter you become, the more you can hear."   ║
+║                          — Kali Linux                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=soham7998&color=00ff41&style=flat-square&label=Hackers+Passed+Through)
+
+</div>
