@@ -3,7 +3,7 @@
 
 # `whoami` — Soham Shah
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Data+Enthusiast;Cloud+Security+Researcher;ML+%7C+Python+%7C+SQL+%7C+AWS;Threat+Hunter+in+Training;Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Data+Enthusiast;ML+%7C+Python+%7C+SQL+%7C+AWS;Threat+Hunter+in+Training;Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=soham7998&label=Profile+Views&color=00ff41&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=flat-square&logo=hackthebox&logoColor=white" />
@@ -21,7 +21,7 @@
 
   Name     : Soham Shah
   Role     : Data Geek | Cybersecurity & ML Enthusiast
-  Focus    : Intersection of Data, Cloud & Security
+  Focus    : Intersection of Data & Security
   Email    : shahhsoham@gmail.com
   Status   : [ ONLINE ] — Currently learning & building
 ```
